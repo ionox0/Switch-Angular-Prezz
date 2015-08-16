@@ -508,7 +508,6 @@ body {
   content: '';
   position: absolute;
   display: block;
-  width: 90%;
   height: 30px;
   left: 5%;
   bottom: 0;
